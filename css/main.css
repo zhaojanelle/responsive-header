@@ -55,6 +55,7 @@ nav a:link {
   display: block;
   padding: .75em;
   font-size: 1.125rem;
+  white-space: nowrap;
 }
 
 nav a:hover {
